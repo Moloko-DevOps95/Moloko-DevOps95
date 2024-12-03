@@ -40,7 +40,7 @@
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/moloko-percy-rakgoale" target="_blank">
+  <a href="https://www.linkedin.com/in/moloko-percy-rakgoale-872955216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Moloko%20Rakgoale-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/Moloko-DevOps95" target="_blank">
