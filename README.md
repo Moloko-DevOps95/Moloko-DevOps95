@@ -34,7 +34,7 @@
   To revolutionize software delivery by bridging the gap between development and operations.
 
 - **📫 Contact Me**:  
-  Reach out at [moloko.rakgoale@capaciti.org.za](mailto:moloko.rakgoale@capaciti.org.za).
+  Reach out at [percyrakgoale@outlook.com](mailto:percyrakgoale@outlook.com).
 
 ---
 
