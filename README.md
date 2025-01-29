@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 DevOps Engineer | South Africa | Innovating for the Future</h3>
+<h3 align="center">🚀 Software Engineer| DevOps | South Africa | Innovating for the Future</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Moloko-DevOps95&label=Profile%20Views&color=F4A261&style=flat-square" alt="Profile Views" />
@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 - **💼 Profession**:  
-  A detail-oriented DevOps Engineer with a passion for automation, scalability, and innovation.
+  A detail-oriented Software Engineer with a passion for coding,Analysis,automation, scalability, and innovation.
 
 - **🔭 Current Focus**:  
   Crafting my *Portfolio Website* and advancing a state-of-the-art *AI ChatBot* project.
